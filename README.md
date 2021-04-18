@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Niki Chen, a statistic major( mathematics minor) student at UCLA
-- 🌱 I’m currently learning statistics, machine learning and data science
+- 👋 Hi, I’m Niki Chen
+- 💻 I’m currently studying at the University of California, Los Angeles.
+- 🌱 I’m currently learning SQL, Python and Machine Learning; 
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help; 
+- 📫 How to reach me: chenzixuan9802@gmail.com;
 
 
 <!---
