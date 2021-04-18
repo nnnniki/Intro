@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nnnniki
+- 👋 Hi, I’m Niki Chen, a statistic major( mathematics minor) student at UCLA
 - 🌱 I’m currently learning statistics, machine learning and data science
 
 
