@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niki Chen
-- 💻 I’m currently studying at the University of California, Los Angeles.
+- 💻 I’m currently studying Statistic at the University of California, Los Angeles.
 - 🌱 I’m currently learning SQL, Python and Machine Learning; 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help; 
